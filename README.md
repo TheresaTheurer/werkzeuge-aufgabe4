@@ -1,6 +1,6 @@
-#Lorem 
-##ipsum 
-###dolor 
+# Lorem 
+## ipsum 
+### dolor 
 - sit 
 - **amet** 
 - consetetur
